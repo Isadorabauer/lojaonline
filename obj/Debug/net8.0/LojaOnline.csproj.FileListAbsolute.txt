@@ -1,0 +1,14 @@
+/Users/isadora/LojaOnline/bin/Debug/net8.0/LojaOnline
+/Users/isadora/LojaOnline/bin/Debug/net8.0/LojaOnline.deps.json
+/Users/isadora/LojaOnline/bin/Debug/net8.0/LojaOnline.runtimeconfig.json
+/Users/isadora/LojaOnline/bin/Debug/net8.0/LojaOnline.dll
+/Users/isadora/LojaOnline/bin/Debug/net8.0/LojaOnline.pdb
+/Users/isadora/LojaOnline/obj/Debug/net8.0/LojaOnline.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isadora/LojaOnline/obj/Debug/net8.0/LojaOnline.AssemblyInfoInputs.cache
+/Users/isadora/LojaOnline/obj/Debug/net8.0/LojaOnline.AssemblyInfo.cs
+/Users/isadora/LojaOnline/obj/Debug/net8.0/LojaOnline.csproj.CoreCompileInputs.cache
+/Users/isadora/LojaOnline/obj/Debug/net8.0/LojaOnline.dll
+/Users/isadora/LojaOnline/obj/Debug/net8.0/refint/LojaOnline.dll
+/Users/isadora/LojaOnline/obj/Debug/net8.0/LojaOnline.pdb
+/Users/isadora/LojaOnline/obj/Debug/net8.0/LojaOnline.genruntimeconfig.cache
+/Users/isadora/LojaOnline/obj/Debug/net8.0/ref/LojaOnline.dll
